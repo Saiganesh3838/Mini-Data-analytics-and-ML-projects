@@ -1,4 +1,6 @@
 # Election ExitPoll Prediction
+![Exit poll](https://github.com/Saiganesh3838/Mini-Data-analytics-and-ML-projects/assets/157223211/73715ae7-fbcd-4b2a-b887-01356c82f4a9)
+
 
 ## Context
 CNBE, a prominent news channel, is gearing up to provide insightful coverage of recent elections, recognizing the importance of data-driven analysis. A comprehensive survey has been conducted, capturing the perspectives of 1525 voters across various demographic and socio-economic factors. This dataset encompasses 9 variables, offering a rich source of information regarding voters' characteristics and preferences.
