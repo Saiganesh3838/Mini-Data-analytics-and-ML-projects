@@ -1,5 +1,8 @@
 # Election ExitPoll Prediction
-![Exit poll](https://github.com/Saiganesh3838/Mini-Data-analytics-and-ML-projects/assets/157223211/73715ae7-fbcd-4b2a-b887-01356c82f4a9)
+
+<p align="center">
+ <img src="https://github.com/Saiganesh3838/Mini-Data-analytics-and-ML-projects/assets/157223211/73715ae7-fbcd-4b2a-b887-01356c82f4a9" width="600" height="600">
+</p>
 
 
 ## Context
