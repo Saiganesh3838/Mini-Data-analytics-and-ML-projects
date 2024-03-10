@@ -1,4 +1,6 @@
 # Comp-activ CPU usr prediction
+![cpu](https://github.com/Saiganesh3838/Mini-Data-analytics-and-ML-projects/assets/157223211/dc86ab17-fa87-47ab-a10c-4209ac5d2acb)
+
 
 ## Context
 The comp-activ database comprises activity measures of computer systems. Data was gathered from a Sun Sparcstation 20/712 with 128 Mbytes of memory, operating in a multi-user university department. Users engaged in diverse tasks, such as internet access, file editing, and CPU-intensive programs.
